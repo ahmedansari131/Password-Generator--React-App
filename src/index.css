@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.remove-arr-btns::-webkit-inner-spin-button,
+.remove-arr-btns::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+}
+
+.remove-arr-btns{
+    -moz-appearance: textfield;
+}
